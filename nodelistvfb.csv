@@ -1,32 +1,27 @@
 id,name,type
-wodi,Wolfgang Dietrich,1
-wipo,Wilfried Porth,1
 bega,Dr. Bernd Gaiser,1
-haje,Hartmut Jenner,1
-heoh,Hermann Ohlicher,1
-frre,Franz Reiner,1
 besu,Dr. Bertram Sugg,1
-stgtulm,Stuttgart-Ulm e.V.,0
-conceptag,Concept AG,0
-vmm,VMM Consulting GmbH,0
-quattrex,Quattrex Finance GmbH,0
-daimlervans,Mercedes-Benz Vans,0
-vfbpraesidium,VfB Praesidium,0
-vfbauf,VfB Aufsichtsrat,0
-vfbehrenr,VfB Ehrenrat,0
-kaercherse,Alfred Kaercher SE&Co.KG,0
-kaercherfoerd,Alfred Kaercher Foerderstiftung,0
-toto,Toto-Lotto-Gesellschaft,0
+bhzstgt,bhz Stuttgart,0
 bosch,Robert Bosch GmbH,0
 cgerlingen,OFC Courage Gerlingen,0
-daimlerbank,Mercedes-Benz Bank,0
-jako,Jako,0
-krom,Krombacher,0
+conceptag,Concept AG,0
 daimlerag,Mercedes-Benz,0
-kaercherag,Kaercher AG,0
-unionb,Union Berlin,0
-horvath,Horvath Partners,0
-recaro,RECARO Holding GmbH,0
+daimlerbank,Mercedes-Benz Bank,0
+daimlervans,Mercedes-Benz Vans,0
 drees,Drees & Sommer,0
-bhzstgt,bhz Stuttgart,0
+frre,Franz Reiner,1
+haje,Hartmut Jenner,1
+heoh,Hermann Ohlicher,1
+horvath,Horvath Partners,0
+jako,Jako,0
+kaercherfoerd,Alfred Kaercher Förderstiftung,0
+kaercherse,Alfred Kaercher SE&Co.KG,0
+krom,Krombacher,0
+recaro,RECARO Holding GmbH,0
+stgtulm,Stuttgart-Ulm e.V.,0
+toto,Toto-Lotto-Gesellschaft,0
+vfbauf,VfB Aufsichtsrat,0
+vmm,VMM Consulting GmbH,0
 waldbande,Waldbande e. V.,0
+wipo,Wilfried Porth,1
+wodi,Wolfgang Dietrich,1
